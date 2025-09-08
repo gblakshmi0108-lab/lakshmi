@@ -1,0 +1,130 @@
+Python (MLP)
+python: high level, interpreted ,object oriented programming ,indented, dynamically is called python
+
+features:
+simple syntax/easy to learn
+libraries
+open source
+platform independent
+less memory
+execute faster compare to some programming
+
+Applications of python:
+1.web development
+2.mobile app development
+3.machine learning/deep learning
+4.ai
+5.cyber security
+6.graphics
+7.iot
+8.Automation.
+9.desktop app development...
+
+===========================================================================================================================================================================================
+
+COMMENTS:
+They are part of a code but they wont consider in a execution time.
+-2 types:
+	1.Single line comment (#)
+	2.Multi line comment('''   ''',""" """)
+
+KEY WORDS:
+They are the reserved words used for particular task and they cannot be used as identifiers (variables, function name,....etc)
+Ex. TRUE,FALSE,FOR,IF,ELSE,WHILE,BREAK,TRY,EXCEPT,FINALLY.
+
+VARIABLES:
+It is place where we store our values.
+ex. a=5
+a=variable,5=value.
+
+Valid variable declaration
+a = 5
+A = 6
+NUM = 25
+Num = 11
+num1 = 1145
+emp_name = "RAM"
+emp_no = 7598235
+
+INVALID VARIABLES:
+1H=11
+STU@NAM@:"SHIV"
+STU ID = 67
+
+
+DATA TYPES:
+It's predefined component and specify the data category.
+	NOTE : for date CONVERT TO Date using libraries.
+
+PYTHON DATATYPES:
+int, float, complex(5j+7), str, bool
+
+Special datatypes(DATA STRUCTURE)
+list
+tuple
+dict
+set
+
+To write code in single line
+	a=4;b=5;c=8
+	or
+	a, b, c=4,5,8
+
+
+INPUT AND OUTPUT FUNCTION:
+	INPUT FUNCTION  : input()
+	OUTPUT FUNCTION : print()
+Assignment=============================================================================================================================================================================
+Write a program to read employee id, employee name, employee phone num and print the details
+
+===================================================================================
+MEMBERSHIP OPERATOR:
+  IN,NOT IN
+
+BITWISE OPERATOR
+
+
+CONDITIONAL OPERATOR:
+It allows us to make decisions in code. They check conditions (expressions that result in true/false) and execute different blocks of code accordingly.
+
+Types of conditional statements:
+1) if. Statement - execute a block only if the condition is true.
+2)if. Else statement - provides two paths: one if condition is true , another if false
+3)if...elif...else ladder: multiple condition checked one by one.
+Nested if - using one if inside another
+
+
+if statement: execute  a block only if condition is true syntax:
+if(condition):
+	statements
+
+If else statement:
+	
+If....elif......else ladder - multiple conditions checked one by one.
+syntax:
+
+if (conditioa1):
+	statement1
+else:
+	if(condition 2)
+	statement 2
+else:
+	if(conition3):
+	statements
+else:
+	statements
+
+if(condition1);
+	statement1
+elif(condition2);
+	statement2
+elif(condition3);
+	statement3
+else:
+	statements
+
+
+
+
+
+
